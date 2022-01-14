@@ -51,3 +51,4 @@ def example():
     print(d.run())
     d.plot_darts()
 
+#example()
